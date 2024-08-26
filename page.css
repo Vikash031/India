@@ -1,0 +1,70 @@
+/* styles.css */
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #B8FBFB;
+    margin: 5;
+    padding: 10;
+}
+
+/* Header styles */
+h1 {
+    color: #EC0A0A;
+    text-align: center;
+    margin-top: 20px;
+}
+/* styles.css */
+
+header {
+background-color: #2635F0; /* Background color for the header */
+padding: __px; /* Padding around the header content */
+border: __px border-style #2635F0; /* Border around the header */
+}
+
+/* Navigation menu styles */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #0074D9;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Page-specific styles */
+#india {
+    /* Customize styles for the India page */
+    background-image: url('india.jpg'); /* Replace with your India-related image */
+    background-size: cover;
+    color: #fff;
+    padding: 50px;
+}
+
+#facts {
+    /* Customize styles for the Facts page */
+    background-image: url('facts.jpg'); /* Replace with your facts-related image */
+    background-size: cover;
+    color: #333;
+    padding: 50px;
+}
+
+#helpline {
+    /* Customize styles for the Helpline page */
+    background-image: url('helpline.jpg'); /* Replace with your helpline-related image */
+    background-size: cover;
+    color: #fff;
+    padding: 50px;
+}
+
+
