@@ -32,3 +32,88 @@ footer {
     padding: 10px;
     background-color: #f9f9f9;
 }
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.gallery img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Navigation menu styles */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #0074D9;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Page-specific styles */
+#india {
+    /* Customize styles for the India page */
+}
+
+#facts {
+    /* Customize styles for the Facts page */
+}
+
+#states {
+    /* Customize styles for the States page */
+}
+
+#helpline {
+    /* Customize styles for the Helpline page */
+}
